@@ -6,10 +6,6 @@ Cities: Write a function called describe_city()
   for the country a default value. Call your function
    for three different cities, at least one of which is not in the default country.
 
-function make_shirt(value1: String, value2: string) {
-  console.log("\nI'm going to make a " + value1 + " t-shirt.")
-    console.log("'It will say  , '" + value2 + " t-shirt.")
-}
 
 
 
